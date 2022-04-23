@@ -1,4 +1,4 @@
-let amigo = {
+let mulher = {
     nome:'cléber',
     sexo:'M',
     idade:18,
@@ -8,5 +8,7 @@ let amigo = {
     }
 }
 
-amigo.exibir(4)
-console.log(amigo.peso)
+mulher.exibir(4)
+console.log(mulher.peso)
+
+console.log(typeof(mulher));
